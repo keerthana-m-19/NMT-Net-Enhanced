@@ -1,0 +1,12 @@
+Measure,Value
+Final Stage,10.0
+Final Seen Tasks,500.0
+Final RMSE,8.597783476141617
+Final Mean Forgetting,0.148469548025048
+Final Max Forgetting,2.1255963704849226
+Final Forgotten Tasks,362.0
+Final Mean Degradation,0.0606406982905209
+Peak Mean Forgetting Stage,8.0
+Peak Mean Forgetting,1.1815893886842008
+Peak Max Forgetting Stage,8.0
+Peak Max Forgetting,15.990650202516877
